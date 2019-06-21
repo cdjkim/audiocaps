@@ -1,0 +1,18 @@
+tensorflow-gpu==1.10.0
+
+# For logging
+colorlog>=2.10.0
+colorful>=0.4.0
+tqdm>=4.10.0
+
+# For io
+scipy
+h5py
+
+# Fore evaluation
+git+git://github.com/bdusell/rougescore.git
+scikit-image
+
+# etc
+better-exceptions>=0.1.8
+matplotlib>=2.0.0
