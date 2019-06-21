@@ -1,0 +1,39 @@
+*.swp
+*.pyc
+.cenv
+.venv
+
+# Ignore data directory
+data
+
+# Ignore checkpoints
+checkpoints
+
+# To ignore files from image_downloader
+*.gif
+*.srt
+*.jpg*
+*.eps
+
+# To ignore files from cocoeval
+*.log
+code/utils/pycocoevalcap/tokenizer/tmp*
+code/utils/pycocoevalcap/spice/cache
+code/utils/pycocoevalcap/spice/lib/stanford-corenlp-3.6.0-models.jar
+code/utils/pycocoevalcap/spice/lib/stanford-corenlp-3.6.0.jar
+code/utils/pycocoevalcap/spice/tmp
+
+# ignore saved np files.
+*.npy
+
+# ignore tag
+ctags.sh
+tags
+
+# ignore hdf5 files.
+*.hdf5
+*.h5
+
+# ignore .p pickled files.
+*.p
+
