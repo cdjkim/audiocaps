@@ -1,4 +1,4 @@
-tensorflow-gpu==1.10.0
+tensorflow-gpu==2.6.4
 
 # For logging
 colorlog>=2.10.0
