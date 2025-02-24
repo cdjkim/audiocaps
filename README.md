@@ -1,5 +1,7 @@
 # [AudioCaps: Generating Captions for Audios in The Wild](https://audiocaps.github.io/)
 
+<span style="color:red; font-weight:bold;">[NEWS Feb.24.2025]</span> We have released **AudioCaps2.0** [dataset](dataset2.0/README.md) with twice the size of the original AudioCaps dataset!
+
 This repository contains the code and the [dataset](dataset/README.md) for our **NAACL-HLT 2019** paper.
 
 * Chris Dongjoo Kim, Byeongchang Kim, Hyunmin Lee, and Gunhee Kim. *AudioCaps: Generating Captions for Audios in The Wild*. In *NAACL-HLT*, 2019. (**Oral**)
@@ -22,4 +24,4 @@ The code and the dataset are free to use for academic purposes only. If you use 
 }
 ```
 
-Last edit: May 30, 2019
+Last edit: Feb 24, 2025
