@@ -1,6 +1,6 @@
 # [AudioCaps: Generating Captions for Audios in The Wild](https://audiocaps.github.io/)
 
-<span style="color:red; font-weight:bold;">[NEWS Feb.24.2025]</span> We have released **AudioCaps2.0** [dataset](dataset2.0/README.md) with twice the size of the original AudioCaps dataset!
+🚨**NEWS Feb.24.2025**🚨 We have released **AudioCaps2.0** [dataset](dataset2.0/README.md) with twice the size of the original AudioCaps dataset!
 
 This repository contains the code and the [dataset](dataset/README.md) for our **NAACL-HLT 2019** paper.
 
