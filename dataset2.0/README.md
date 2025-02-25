@@ -1,6 +1,6 @@
 # AudioCaps2.0
 
-## Description
+## CSV Description
 There are 4 columns in the csv file.
 - **audiocap_id**: The id unique to the audio clips and its corresponding caption.
 - **youtube_id**: The youtube clip that the audio belongs to. You can use this to obtain the VGGish embedding from AudioSet.
@@ -16,5 +16,8 @@ There are 4 columns in the csv file.
 | Test             |       4,875 |
 | **Total**        | **98,606** |
 
+## Raw Video and Audio
+Please fill out this [form](https://forms.gle/2wF54Y1Ft2LtPdhW8) and we will get back to you with the download link.
 
-Last edit: Feb 24, 2025
+
+Last edit: Feb 25, 2025
