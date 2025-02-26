@@ -12,9 +12,9 @@ There are 4 columns in the csv file.
 | Split            |       Count |
 | :--------------- | ----------: |
 | Train            |      49,838 |
-| Validation       |         495 |
-| Test             |         975 |
-| **Total**        | **51,308** |
+| Validation       |        2476 |
+| Test             |        4876 |
+| **Total**        | **57,190**  |
 
 ## Raw Video and Audio
 Please fill out this [form](https://forms.gle/2wF54Y1Ft2LtPdhW8) and we will get back to you with the download link.
